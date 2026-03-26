@@ -27857,5 +27857,57 @@
     "start_date_local": "2026-03-25T07:06:44Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-03-26",
+    "distance": 30094.2,
+    "elevation_gain": 391.0,
+    "id": "17862697504",
+    "moving_time": 3278.0,
+    "name": "ROUVY - RideCymru 2026 | Eryri National Park",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-26T08:10:10Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-26",
+    "distance": 18237.7,
+    "elevation_gain": 354.0,
+    "id": "17862985176",
+    "moving_time": 2305.0,
+    "name": "ROUVY - RideCymru 2026 | Coed-y-Brenin: The King\u2019s Forest",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-26T09:06:13Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-26",
+    "distance": 17666.7,
+    "elevation_gain": 216.0,
+    "id": "17863289124",
+    "moving_time": 2000.0,
+    "name": "ROUVY - RideCymru 2026 | Afon Dulas to Machynlleth",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-26T09:45:47Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-26",
+    "distance": 4058.4,
+    "elevation_gain": 34.5,
+    "id": "17863599527",
+    "moving_time": 1211.0,
+    "name": "Morning Brick Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-26T10:19:42Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
