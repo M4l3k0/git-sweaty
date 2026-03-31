@@ -27974,5 +27974,44 @@
     "start_date_local": "2026-03-29T07:38:01Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-30",
+    "distance": 19649.4,
+    "elevation_gain": 217.0,
+    "id": "17916901918",
+    "moving_time": 2183.0,
+    "name": "ROUVY - Victor | Grand Teton | Idaho",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-30T17:51:51Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-30",
+    "distance": 7442.1,
+    "elevation_gain": 132.0,
+    "id": "17916904221",
+    "moving_time": 1016.0,
+    "name": "ROUVY - FTP Ramp Test",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-30T17:28:40Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-31",
+    "distance": 12127.4,
+    "elevation_gain": 70.4,
+    "id": "17921102921",
+    "moving_time": 3553.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-31T06:27:28Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
