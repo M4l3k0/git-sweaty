@@ -28091,5 +28091,57 @@
     "start_date_local": "2026-04-04T11:05:21Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-05",
+    "distance": 18462.7,
+    "elevation_gain": 66.0,
+    "id": "17982752028",
+    "moving_time": 1762.0,
+    "name": "ROUVY - Teton Village | Grand Teton | Wyoming",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-05T06:17:43Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-05",
+    "distance": 19998.5,
+    "elevation_gain": 54.0,
+    "id": "17982889079",
+    "moving_time": 1961.0,
+    "name": "ROUVY - Easter 2026 | Mississippi | USA",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-05T06:49:36Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-05",
+    "distance": 11899.3,
+    "elevation_gain": 93.0,
+    "id": "17983011596",
+    "moving_time": 1277.0,
+    "name": "ROUVY - Along the North Saskatchewan River | Canada",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-05T07:27:08Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-05",
+    "distance": 30599.1,
+    "elevation_gain": 294.0,
+    "id": "17983410611",
+    "moving_time": 2851.0,
+    "name": "ROUVY - Group Ride: TICCC & THE CRAZY CATZ (Sun) Group ride with Flamme Rouge sprint finish 2.8w/kg",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-05T08:00:00Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
