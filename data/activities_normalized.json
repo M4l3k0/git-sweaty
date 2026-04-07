@@ -28143,5 +28143,31 @@
     "start_date_local": "2026-04-05T08:00:00Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-06",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18005224446",
+    "moving_time": 1882.0,
+    "name": "Night Pilates",
+    "raw_activity_type": "Workout",
+    "raw_type": "Pilates",
+    "start_date_local": "2026-04-06T21:58:23Z",
+    "type": "Pilates",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-07",
+    "distance": 15515.5,
+    "elevation_gain": 94.9,
+    "id": "18009248580",
+    "moving_time": 4557.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-07T07:11:14Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
