@@ -28286,5 +28286,70 @@
     "start_date_local": "2026-04-11T08:31:38Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 22799.0,
+    "elevation_gain": 118.0,
+    "id": "18074360564",
+    "moving_time": 2392.0,
+    "name": "ROUVY - Buffalo Valley | Grand Teton | Wyoming",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-12T06:29:43Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 20491.5,
+    "elevation_gain": 82.0,
+    "id": "18074536868",
+    "moving_time": 2159.0,
+    "name": "ROUVY - Strength Set Lite | Nikki Bartlett's Favourite",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-12T07:13:04Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 34448.6,
+    "elevation_gain": 187.0,
+    "id": "18074951729",
+    "moving_time": 3154.0,
+    "name": "ROUVY - Group Ride: TICCC & THE CRAZY CATZ (Sun) Group ride with Flamme Rouge sprint finish 2.8w/kg",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-12T08:00:00Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 13038.3,
+    "elevation_gain": 280.0,
+    "id": "18081522970",
+    "moving_time": 1196.0,
+    "name": "ROUVY - Race: The big Rouvy race",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-12T16:00:00Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 5323.2,
+    "elevation_gain": 81.0,
+    "id": "18081805362",
+    "moving_time": 899.0,
+    "name": "ROUVY - 15 Minute Cool-down",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-12T16:25:35Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
