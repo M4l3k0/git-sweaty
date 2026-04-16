@@ -28390,5 +28390,31 @@
     "start_date_local": "2026-04-15T09:24:00Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-16",
+    "distance": 45152.3,
+    "elevation_gain": 570.0,
+    "id": "18128448753",
+    "moving_time": 5587.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-16T07:25:58Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-16",
+    "distance": 5058.0,
+    "elevation_gain": 29.8,
+    "id": "18128592581",
+    "moving_time": 1324.0,
+    "name": "Morning Brick Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-16T08:59:38Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
