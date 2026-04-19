@@ -28468,5 +28468,18 @@
     "start_date_local": "2026-04-18T07:08:16Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 73421.7,
+    "elevation_gain": 896.0,
+    "id": "18167949870",
+    "moving_time": 12094.0,
+    "name": "Morning Social Sunday Ride w/ Ian",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-19T05:55:10Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
