@@ -28559,5 +28559,44 @@
     "start_date_local": "2026-04-25T07:52:53Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-26",
+    "distance": 400.0,
+    "elevation_gain": 0.0,
+    "id": "18264290461",
+    "moving_time": 434.0,
+    "name": "Wilmslow Triathlon - Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-04-26T10:45:14Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-26",
+    "distance": 6390.4,
+    "elevation_gain": 57.2,
+    "id": "18264319972",
+    "moving_time": 1721.0,
+    "name": "Wilmslow Triathlon - Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-26T11:39:53Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-26",
+    "distance": 24757.0,
+    "elevation_gain": 141.0,
+    "id": "18264387160",
+    "moving_time": 2664.0,
+    "name": "Wilmslow Triathlon - Bike",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-26T10:54:30Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
