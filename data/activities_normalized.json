@@ -28637,5 +28637,57 @@
     "start_date_local": "2026-04-29T09:42:43Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 14006.5,
+    "elevation_gain": 236.0,
+    "id": "18315126296",
+    "moving_time": 1451.0,
+    "name": "ROUVY - Ponta do Albernaz | Azores",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-30T06:34:55Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 31149.5,
+    "elevation_gain": 311.0,
+    "id": "18315565635",
+    "moving_time": 3599.0,
+    "name": "ROUVY - 40/20 Power Blocks | Stephanie Clutterbuck's Favourite",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-30T07:04:36Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 20983.2,
+    "elevation_gain": 147.0,
+    "id": "18315829189",
+    "moving_time": 2091.0,
+    "name": "ROUVY - Bugesera | Rwanda",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-30T08:10:47Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 30220.9,
+    "elevation_gain": 73.0,
+    "id": "18316278170",
+    "moving_time": 3607.0,
+    "name": "ROUVY - Madison to Carthage | Mississippi | USA",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-30T08:55:02Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
