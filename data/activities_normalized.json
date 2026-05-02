@@ -28702,5 +28702,44 @@
     "start_date_local": "2026-05-01T07:22:13Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-05-01",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18337284099",
+    "moving_time": 2444.0,
+    "name": "Weight Training - Chest & Abs",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-01T19:45:09Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-02",
+    "distance": 6430.1,
+    "elevation_gain": 49.9,
+    "id": "18341919579",
+    "moving_time": 1878.0,
+    "name": "Morning Run w/ Benji",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-02T08:18:03Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-02",
+    "distance": 4574.6,
+    "elevation_gain": 53.5,
+    "id": "18345416708",
+    "moving_time": 3699.0,
+    "name": "Lunch Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-02T11:37:59Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
