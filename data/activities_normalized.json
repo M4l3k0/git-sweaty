@@ -28741,5 +28741,57 @@
     "start_date_local": "2026-05-02T11:37:59Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-03",
+    "distance": 15799.0,
+    "elevation_gain": 44.0,
+    "id": "18354301836",
+    "moving_time": 1134.0,
+    "name": "ROUVY - Mountains of Banff National Park | Canada",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-03T06:23:40Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-03",
+    "distance": 38139.0,
+    "elevation_gain": 90.0,
+    "id": "18354528720",
+    "moving_time": 2976.0,
+    "name": "ROUVY - Giro d'Italia 2025 | Stage 3 - Valona",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-03T06:45:35Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-03",
+    "distance": 41998.7,
+    "elevation_gain": 147.0,
+    "id": "18355137449",
+    "moving_time": 3422.0,
+    "name": "ROUVY - Group Ride: TICCC & THE CRAZY CATZ (Sun) Group ride with Flamme Rouge sprint finish 2.8w/kg",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-03T08:01:00Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-03",
+    "distance": 28378.3,
+    "elevation_gain": 150.0,
+    "id": "18361715321",
+    "moving_time": 2184.0,
+    "name": "ROUVY - Race: The Big Rouvy Race",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-03T16:00:00Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
