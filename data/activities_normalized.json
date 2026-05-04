@@ -28793,5 +28793,18 @@
     "start_date_local": "2026-05-03T16:00:00Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-04",
+    "distance": 15208.2,
+    "elevation_gain": 141.1,
+    "id": "18371780240",
+    "moving_time": 4798.0,
+    "name": "Lunch Gravel Ride w/ Maisie & Lydia",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-04T12:40:26Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
