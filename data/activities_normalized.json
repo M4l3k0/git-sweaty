@@ -28806,5 +28806,31 @@
     "start_date_local": "2026-05-04T12:40:26Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-05",
+    "distance": 15963.0,
+    "elevation_gain": 135.8,
+    "id": "18382516978",
+    "moving_time": 4782.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-05T08:45:31Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-05",
+    "distance": 4999.7,
+    "elevation_gain": 41.0,
+    "id": "18383206407",
+    "moving_time": 456.0,
+    "name": "ROUVY - Imola | Italy",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-05T11:23:43Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
