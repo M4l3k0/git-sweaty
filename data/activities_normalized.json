@@ -28975,5 +28975,44 @@
     "start_date_local": "2026-05-12T08:48:53Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-13",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18487403679",
+    "moving_time": 4958.0,
+    "name": "Weight Training - Upper Body",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-13T07:27:21Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-13",
+    "distance": 12773.4,
+    "elevation_gain": 153.0,
+    "id": "18487906483",
+    "moving_time": 1186.0,
+    "name": "ROUVY - Cabe\u00e7os do Mist\u00e9rio | Azores",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-13T09:48:01Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-13",
+    "distance": 3658.5,
+    "elevation_gain": 67.0,
+    "id": "18488005380",
+    "moving_time": 599.0,
+    "name": "ROUVY - 10 Minute Cooldown",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-13T10:11:35Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
