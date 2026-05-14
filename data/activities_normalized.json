@@ -29014,5 +29014,18 @@
     "start_date_local": "2026-05-13T10:11:35Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-14",
+    "distance": 21128.1,
+    "elevation_gain": 717.0,
+    "id": "18500496671",
+    "moving_time": 4259.0,
+    "name": "ROUVY - Legs On | Team Visma | Lease a Bike",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-14T08:12:00Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
