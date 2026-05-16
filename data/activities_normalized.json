@@ -29040,5 +29040,31 @@
     "start_date_local": "2026-05-15T07:00:23Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-05-15",
+    "distance": 10149.1,
+    "elevation_gain": 87.2,
+    "id": "18520237838",
+    "moving_time": 2556.0,
+    "name": "Dougie Mac 10k Charity Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-15T19:01:09Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-16",
+    "distance": 5527.2,
+    "elevation_gain": 43.6,
+    "id": "18524631997",
+    "moving_time": 1855.0,
+    "name": "Morning Recovery Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-16T07:12:49Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
