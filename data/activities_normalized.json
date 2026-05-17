@@ -29066,5 +29066,18 @@
     "start_date_local": "2026-05-16T07:12:49Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 53528.1,
+    "elevation_gain": 876.0,
+    "id": "18538046331",
+    "moving_time": 7199.0,
+    "name": "ROUVY - 120-minute Endurance Session | Virtual Babble Ride Across Britain",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-17T06:25:14Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
