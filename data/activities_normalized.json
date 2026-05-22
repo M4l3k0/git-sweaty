@@ -29131,5 +29131,44 @@
     "start_date_local": "2026-05-21T06:27:40Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-22",
+    "distance": 2046.0,
+    "elevation_gain": 0.0,
+    "id": "18604641522",
+    "moving_time": 2285.0,
+    "name": "Morning Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-05-22T07:01:58Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-22",
+    "distance": 17259.2,
+    "elevation_gain": 121.0,
+    "id": "18605275797",
+    "moving_time": 1474.0,
+    "name": "ROUVY - Group Ride: GEMCITY TTT MAY 2026 - CrazyCatz : UK DIVISION S5E3.4",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-22T09:00:00Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-22",
+    "distance": 1356.1,
+    "elevation_gain": 58.0,
+    "id": "18605331619",
+    "moving_time": 419.0,
+    "name": "ROUVY - 7 Minute Cool-down",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-22T09:26:11Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
