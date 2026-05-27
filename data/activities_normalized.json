@@ -29222,5 +29222,31 @@
     "start_date_local": "2026-05-26T07:55:16Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-27",
+    "distance": 3091.0,
+    "elevation_gain": 24.0,
+    "id": "18672574100",
+    "moving_time": 3658.0,
+    "name": "Morning Open Water Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-05-27T09:19:23Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-27",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18675837607",
+    "moving_time": 2006.0,
+    "name": "Weight Training - Arms w/ Lydia",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-27T14:58:50Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
