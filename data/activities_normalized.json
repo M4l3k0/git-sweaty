@@ -29313,5 +29313,44 @@
     "start_date_local": "2026-05-30T08:49:47Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-31",
+    "distance": 109953.0,
+    "elevation_gain": 900.0,
+    "id": "18724717137",
+    "moving_time": 13093.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-31T05:32:26Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-31",
+    "distance": 51.7,
+    "elevation_gain": 0.0,
+    "id": "18724794218",
+    "moving_time": 32.0,
+    "name": "Transition to Run",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-05-31T09:21:38Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-31",
+    "distance": 4003.3,
+    "elevation_gain": 32.7,
+    "id": "18725491809",
+    "moving_time": 1132.0,
+    "name": "Morning Brick Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-31T09:27:43Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
