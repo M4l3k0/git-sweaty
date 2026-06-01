@@ -15805,6 +15805,13 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-06-01",
+      "hour": 7,
+      "subtype": "Pilates",
+      "type": "Pilates",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -32103,6 +32110,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1882.0
+        },
+        "2026-06-01": {
+          "activity_ids": [
+            "18738360497"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1883.0
         }
       },
       "Ride": {
@@ -33865,7 +33881,7 @@
       }
     }
   },
-  "generated_at": "2026-05-31T16:17:08.210120+00:00",
+  "generated_at": "2026-06-01T19:57:12.780873+00:00",
   "other_bucket": "OtherSports",
   "repo": "M4l3k0/git-sweaty",
   "source": "strava",
