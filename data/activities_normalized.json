@@ -29365,5 +29365,18 @@
     "start_date_local": "2026-06-01T07:41:10Z",
     "type": "Pilates",
     "year": 2026
+  },
+  {
+    "date": "2026-06-02",
+    "distance": 20043.1,
+    "elevation_gain": 127.2,
+    "id": "18752909525",
+    "moving_time": 6030.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-02T08:47:07Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
