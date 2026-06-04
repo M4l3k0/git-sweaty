@@ -29404,5 +29404,18 @@
     "start_date_local": "2026-06-03T13:29:15Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-04",
+    "distance": 48020.1,
+    "elevation_gain": 317.0,
+    "id": "18780149995",
+    "moving_time": 5405.0,
+    "name": "ROUVY - Endurance Ladder | Team Visma | Lease a Bike",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-04T07:21:32Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
