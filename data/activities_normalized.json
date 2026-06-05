@@ -29417,5 +29417,18 @@
     "start_date_local": "2026-06-04T07:21:32Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-05",
+    "distance": 924.0,
+    "elevation_gain": 0.0,
+    "id": "18792981946",
+    "moving_time": 991.0,
+    "name": "Morning \"Shakeout\" Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-06-05T07:02:25Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
