@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T16:12:11.276728+00:00",
+  "generated_at": "2026-06-07T16:22:50.183168+00:00",
   "years": {
     "2014": {
       "Ride": {
@@ -16497,6 +16497,15 @@
           "distance": 109953.0,
           "elevation_gain": 900.0,
           "moving_time": 13093.0
+        },
+        "2026-06-07": {
+          "activity_ids": [
+            "18819961501"
+          ],
+          "count": 1,
+          "distance": 19332.3,
+          "elevation_gain": 175.0,
+          "moving_time": 2071.0
         }
       },
       "Run": {
@@ -16979,6 +16988,15 @@
           "distance": 2576.7,
           "elevation_gain": 34.8,
           "moving_time": 767.0
+        },
+        "2026-06-07": {
+          "activity_ids": [
+            "18820218277"
+          ],
+          "count": 1,
+          "distance": 5204.2,
+          "elevation_gain": 49.2,
+          "moving_time": 1387.0
         }
       },
       "Swim": {
@@ -17344,12 +17362,13 @@
         },
         "2026-06-03": {
           "activity_ids": [
-            "18766044426"
+            "18766044426",
+            "18820142749"
           ],
-          "count": 1,
-          "distance": 2112.0,
+          "count": 2,
+          "distance": 4224.0,
           "elevation_gain": 0.0,
-          "moving_time": 2343.0
+          "moving_time": 4716.0
         },
         "2026-06-05": {
           "activity_ids": [
@@ -17359,6 +17378,15 @@
           "distance": 924.0,
           "elevation_gain": 0.0,
           "moving_time": 991.0
+        },
+        "2026-06-07": {
+          "activity_ids": [
+            "18819967802"
+          ],
+          "count": 1,
+          "distance": 400.0,
+          "elevation_gain": 0.0,
+          "moving_time": 405.0
         }
       },
       "VirtualRide": {
@@ -18126,6 +18154,16 @@
           "distance": 51.7,
           "elevation_gain": 0.0,
           "moving_time": 32.0
+        },
+        "2026-06-07": {
+          "activity_ids": [
+            "18820195069",
+            "18820209896"
+          ],
+          "count": 2,
+          "distance": 549.4,
+          "elevation_gain": 0.0,
+          "moving_time": 228.0
         }
       }
     }

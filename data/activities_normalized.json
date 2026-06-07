@@ -29406,6 +29406,19 @@
     "year": 2026
   },
   {
+    "date": "2026-06-03",
+    "distance": 2112.0,
+    "elevation_gain": 0.0,
+    "id": "18820142749",
+    "moving_time": 2373.0,
+    "name": "Morning Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-06-03T06:59:48Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
     "date": "2026-06-04",
     "distance": 48020.1,
     "elevation_gain": 317.0,
@@ -29454,6 +29467,71 @@
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-06-06T07:48:29Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-07",
+    "distance": 19332.3,
+    "elevation_gain": 175.0,
+    "id": "18819961501",
+    "moving_time": 2071.0,
+    "name": "Coventry Triathlon - Bike",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-07T08:33:06Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-07",
+    "distance": 400.0,
+    "elevation_gain": 0.0,
+    "id": "18819967802",
+    "moving_time": 405.0,
+    "name": "Coventry Triathlon - Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-06-07T08:22:30Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-07",
+    "distance": 357.8,
+    "elevation_gain": 0.0,
+    "id": "18820195069",
+    "moving_time": 150.0,
+    "name": "Coventry Triathlon - T1",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-06-07T08:29:26Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-07",
+    "distance": 191.6,
+    "elevation_gain": 0.0,
+    "id": "18820209896",
+    "moving_time": 78.0,
+    "name": "Coventry Triathlon - T2",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-06-07T09:10:00Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-07",
+    "distance": 5204.2,
+    "elevation_gain": 49.2,
+    "id": "18820218277",
+    "moving_time": 1387.0,
+    "name": "Coventry Triathlon - Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-07T09:11:58Z",
     "type": "Run",
     "year": 2026
   }
