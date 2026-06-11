@@ -29573,5 +29573,31 @@
     "start_date_local": "2026-06-10T09:26:12Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-06-11",
+    "distance": 87663.8,
+    "elevation_gain": 1770.0,
+    "id": "18875307459",
+    "moving_time": 12614.0,
+    "name": "ROUVY - Just keep spinning, don't stop spinning...",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-11T06:44:11Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-11",
+    "distance": 6053.7,
+    "elevation_gain": 24.9,
+    "id": "18875695594",
+    "moving_time": 1627.0,
+    "name": "Morning Brick Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-11T10:17:22Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
