@@ -29768,5 +29768,18 @@
     "start_date_local": "2026-07-01T07:01:17Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-07-02",
+    "distance": 27981.6,
+    "elevation_gain": 246.0,
+    "id": "19146847328",
+    "moving_time": 3389.0,
+    "name": "ROUVY - Active Recovery | Block 3: Half-Distance Triathlon",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-02T07:22:43Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
