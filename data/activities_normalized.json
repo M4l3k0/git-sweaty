@@ -29781,5 +29781,18 @@
     "start_date_local": "2026-07-02T07:22:43Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-03",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19159702626",
+    "moving_time": 1840.0,
+    "name": "Morning Pilates",
+    "raw_activity_type": "Workout",
+    "raw_type": "Pilates",
+    "start_date_local": "2026-07-03T07:06:31Z",
+    "type": "Pilates",
+    "year": 2026
   }
 ]

@@ -16036,6 +16036,13 @@
       "subtype": "VirtualRide",
       "type": "VirtualRide",
       "year": 2026
+    },
+    {
+      "date": "2026-07-03",
+      "hour": 7,
+      "subtype": "Pilates",
+      "type": "Pilates",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -32352,6 +32359,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1883.0
+        },
+        "2026-07-03": {
+          "activity_ids": [
+            "19159702626"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1840.0
         }
       },
       "Ride": {
@@ -34369,7 +34385,7 @@
       }
     }
   },
-  "generated_at": "2026-07-02T16:48:51.385789+00:00",
+  "generated_at": "2026-07-03T16:23:50.585696+00:00",
   "other_bucket": "OtherSports",
   "repo": "M4l3k0/git-sweaty",
   "source": "strava",
