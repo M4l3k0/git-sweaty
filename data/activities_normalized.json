@@ -29833,5 +29833,31 @@
     "start_date_local": "2026-07-06T08:42:38Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-07-07",
+    "distance": 12014.9,
+    "elevation_gain": 57.1,
+    "id": "19211338615",
+    "moving_time": 3321.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-07T08:45:59Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-07",
+    "distance": 1360.3,
+    "elevation_gain": 18.3,
+    "id": "19211338749",
+    "moving_time": 451.0,
+    "name": "Morning Run - Strides",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-07T09:44:32Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
