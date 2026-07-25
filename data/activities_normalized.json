@@ -30145,5 +30145,44 @@
     "start_date_local": "2026-07-24T13:57:33Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-07-25",
+    "distance": 6329.3,
+    "elevation_gain": 29.8,
+    "id": "19454444037",
+    "moving_time": 1845.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-25T07:43:52Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-25",
+    "distance": 2244.8,
+    "elevation_gain": 33.0,
+    "id": "19454493804",
+    "moving_time": 724.0,
+    "name": "Morning Run - Strides",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-25T08:15:59Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-25",
+    "distance": 616.3,
+    "elevation_gain": 11.9,
+    "id": "19454505776",
+    "moving_time": 211.0,
+    "name": "Morning Run - Cool down",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-25T08:28:33Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
