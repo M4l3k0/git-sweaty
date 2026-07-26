@@ -30184,5 +30184,31 @@
     "start_date_local": "2026-07-25T08:28:33Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-26",
+    "distance": 20775.7,
+    "elevation_gain": 705.0,
+    "id": "19467888635",
+    "moving_time": 4259.0,
+    "name": "ROUVY - Legs On | Team Visma | Lease a Bike",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-26T06:47:37Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-26",
+    "distance": 34154.8,
+    "elevation_gain": 152.0,
+    "id": "19468299303",
+    "moving_time": 3010.0,
+    "name": "ROUVY - Group Ride: TICCC & THE CRAZY CATZ (Sun) group ride with  \u2018Flamme Rouge\u2019 sprint finish EU/AUST/NZ TIME ZONE \u2014 ON ROUVY",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-26T08:01:00Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
