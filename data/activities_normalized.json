@@ -30379,5 +30379,18 @@
     "start_date_local": "2026-08-07T07:01:17Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-08-08",
+    "distance": 5042.9,
+    "elevation_gain": 52.1,
+    "id": "19649640912",
+    "moving_time": 1651.0,
+    "name": "Morning Run - A rare joint run with Kirsty",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-08T07:39:55Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
