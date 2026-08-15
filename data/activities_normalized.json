@@ -30483,5 +30483,18 @@
     "start_date_local": "2026-08-14T07:14:37Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-08-15",
+    "distance": 11187.8,
+    "elevation_gain": 62.0,
+    "id": "19748147970",
+    "moving_time": 1408.0,
+    "name": "Morning Bike & Legs check",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-15T08:32:52Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
