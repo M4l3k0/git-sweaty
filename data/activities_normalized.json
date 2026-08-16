@@ -30496,5 +30496,44 @@
     "start_date_local": "2026-08-15T08:32:52Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-16",
+    "distance": 1715.0,
+    "elevation_gain": 0.0,
+    "id": "19764293555",
+    "moving_time": 2062.0,
+    "name": "Blithfield Olympic Triathlon - Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-08-16T07:40:22Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-16",
+    "distance": 10004.4,
+    "elevation_gain": 6.4,
+    "id": "19764318914",
+    "moving_time": 2796.0,
+    "name": "Blithfield Olympic Triathlon - Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-16T09:33:59Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-16",
+    "distance": 39294.6,
+    "elevation_gain": 367.0,
+    "id": "19764332124",
+    "moving_time": 4348.0,
+    "name": "Blithfield Olympic Triathlon - Bike",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-16T08:19:25Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
