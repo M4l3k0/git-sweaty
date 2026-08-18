@@ -30535,5 +30535,18 @@
     "start_date_local": "2026-08-16T08:19:25Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-18",
+    "distance": 4388.0,
+    "elevation_gain": 39.0,
+    "id": "19788952483",
+    "moving_time": 1499.0,
+    "name": "Morning Recovery Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-18T06:34:22Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
