@@ -30574,5 +30574,31 @@
     "start_date_local": "2026-08-20T06:04:54Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-22",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19845765108",
+    "moving_time": 1479.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-08-22T07:42:16Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-22",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19846015046",
+    "moving_time": 1364.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-08-22T08:14:59Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
