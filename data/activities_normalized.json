@@ -30912,5 +30912,18 @@
     "start_date_local": "2026-09-16T08:38:40Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-09-17",
+    "distance": 28078.7,
+    "elevation_gain": 678.0,
+    "id": "20210024385",
+    "moving_time": 5160.0,
+    "name": "ROUVY - Endurance + Short Bursts",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-17T06:46:46Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
