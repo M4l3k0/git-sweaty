@@ -31081,5 +31081,44 @@
     "start_date_local": "2026-09-30T07:02:14Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-10-01",
+    "distance": 24699.1,
+    "elevation_gain": 310.0,
+    "id": "20403167917",
+    "moving_time": 2497.0,
+    "name": "ROUVY - Alpine Panorama route | Stage 1 | Kaien - Appenzell",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-01T08:08:09Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-01",
+    "distance": 19911.3,
+    "elevation_gain": 296.0,
+    "id": "20403450958",
+    "moving_time": 2173.0,
+    "name": "ROUVY - Alpine Panorama route | Stage 2 | Urn\u00e4sch - Wattwil",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-01T08:55:29Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-01",
+    "distance": 6980.6,
+    "elevation_gain": 89.0,
+    "id": "20403611465",
+    "moving_time": 1200.0,
+    "name": "ROUVY - 20 minute cool-down",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-01T09:34:17Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
