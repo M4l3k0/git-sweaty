@@ -31276,5 +31276,18 @@
     "start_date_local": "2026-10-13T08:45:20Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-14",
+    "distance": 25296.0,
+    "elevation_gain": 531.0,
+    "id": "20578872512",
+    "moving_time": 4080.0,
+    "name": "ROUVY - Endurance Cruise | Team Visma | Lease a Bike",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-14T09:12:22Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
