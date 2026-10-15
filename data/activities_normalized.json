@@ -31289,5 +31289,70 @@
     "start_date_local": "2026-10-14T09:12:22Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-10-15",
+    "distance": 13802.3,
+    "elevation_gain": 190.0,
+    "id": "20591668045",
+    "moving_time": 1442.0,
+    "name": "ROUVY - Douar Agdour | Morocco",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-15T07:31:39Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-15",
+    "distance": 21400.3,
+    "elevation_gain": 130.0,
+    "id": "20591934764",
+    "moving_time": 2151.0,
+    "name": "ROUVY - Lago di Garda South East | Italy",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-15T07:58:41Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-15",
+    "distance": 26293.6,
+    "elevation_gain": 26.0,
+    "id": "20592220653",
+    "moving_time": 2400.0,
+    "name": "ROUVY - Gallatin River Canyon | Montana",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-15T08:38:23Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-15",
+    "distance": 5766.1,
+    "elevation_gain": 29.0,
+    "id": "20592299620",
+    "moving_time": 537.0,
+    "name": "ROUVY - GPBRASIL CVB | VIA EXPRESSA | S\u00c3O LU\u00cdS/MA",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-15T09:21:38Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-15",
+    "distance": 5098.0,
+    "elevation_gain": 38.0,
+    "id": "20592531761",
+    "moving_time": 1500.0,
+    "name": "Morning Brick Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-15T09:38:31Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
