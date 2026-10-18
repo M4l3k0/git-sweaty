@@ -31393,5 +31393,44 @@
     "start_date_local": "2026-10-17T07:30:55Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-18",
+    "distance": 11929.9,
+    "elevation_gain": 317.0,
+    "id": "20629930304",
+    "moving_time": 2040.0,
+    "name": "ROUVY - Dopamine Boost",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-18T07:14:45Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-18",
+    "distance": 36750.1,
+    "elevation_gain": 147.0,
+    "id": "20630355874",
+    "moving_time": 3090.0,
+    "name": "ROUVY - Group Ride: TICCC & THE CRAZY CATZ (Sun) Group ride with \u2018Flamme Rouge\u2019 sprint finish 2.8w/kg",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-18T08:01:00Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-18",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20633339498",
+    "moving_time": 2222.0,
+    "name": "Lunch Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-10-18T11:31:09Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
