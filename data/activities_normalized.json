@@ -31445,5 +31445,31 @@
     "start_date_local": "2026-10-19T08:51:58Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-20",
+    "distance": 18244.8,
+    "elevation_gain": 160.0,
+    "id": "20657484374",
+    "moving_time": 1814.0,
+    "name": "ROUVY - Taghazout | Morocco",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-20T09:02:28Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-20",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20657871240",
+    "moving_time": 2128.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-10-20T09:44:31Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
