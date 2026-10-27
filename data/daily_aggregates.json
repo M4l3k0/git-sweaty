@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T20:18:14.526723+00:00",
+  "generated_at": "2026-10-27T19:49:30.009150+00:00",
   "years": {
     "2014": {
       "Ride": {
@@ -16276,6 +16276,16 @@
           "distance": 1336.9,
           "elevation_gain": 36.6,
           "moving_time": 1560.0
+        },
+        "2026-10-27": {
+          "activity_ids": [
+            "20749808763",
+            "20753297908"
+          ],
+          "count": 2,
+          "distance": 6162.0,
+          "elevation_gain": 146.0,
+          "moving_time": 5104.0
         }
       },
       "Pilates": {
@@ -17597,6 +17607,15 @@
           "distance": 15327.0,
           "elevation_gain": 84.0,
           "moving_time": 4795.0
+        },
+        "2026-10-27": {
+          "activity_ids": [
+            "20747199206"
+          ],
+          "count": 1,
+          "distance": 10504.0,
+          "elevation_gain": 172.0,
+          "moving_time": 3090.0
         }
       },
       "Swim": {
