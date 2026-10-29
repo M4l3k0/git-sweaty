@@ -31653,5 +31653,31 @@
     "start_date_local": "2026-10-28T07:47:21Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-29",
+    "distance": 6019.0,
+    "elevation_gain": 43.0,
+    "id": "20776486094",
+    "moving_time": 1998.0,
+    "name": "Morning Run w/ Rosie & Benji",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-29T10:14:48Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-29",
+    "distance": 2589.7,
+    "elevation_gain": 92.0,
+    "id": "20780001713",
+    "moving_time": 2699.0,
+    "name": "Afternoon Hike",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-10-29T13:54:55Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
