@@ -31692,5 +31692,83 @@
     "start_date_local": "2026-10-30T07:10:09Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-01",
+    "distance": 5849.2,
+    "elevation_gain": 302.0,
+    "id": "20812656924",
+    "moving_time": 1455.0,
+    "name": "ROUVY - The Inverter | Keep it fun with ROUVY",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-01T07:02:46Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-01",
+    "distance": 38400.1,
+    "elevation_gain": 217.0,
+    "id": "20812999076",
+    "moving_time": 3225.0,
+    "name": "ROUVY - Group Ride: TICCC & THE CRAZY CATZ (Sun) Group ride with \u2018Flamme Rouge\u2019 sprint finish 2.8w/kg",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-01T07:31:00Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-01",
+    "distance": 17650.0,
+    "elevation_gain": 82.0,
+    "id": "20813266785",
+    "moving_time": 1829.0,
+    "name": "ROUVY - Merzouga - Erg Chebbi | Morocco",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-01T08:26:38Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-01",
+    "distance": 8521.4,
+    "elevation_gain": 21.0,
+    "id": "20818493990",
+    "moving_time": 900.0,
+    "name": "ROUVY - Zippy Warm-up",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-01T14:30:50Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-01",
+    "distance": 21860.1,
+    "elevation_gain": 170.0,
+    "id": "20819314786",
+    "moving_time": 1645.0,
+    "name": "ROUVY - Race: THE BIG ROUVY RACE by Kalas",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-01T15:00:00Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-01",
+    "distance": 1372.8,
+    "elevation_gain": 59.0,
+    "id": "20819316839",
+    "moving_time": 420.0,
+    "name": "ROUVY - 7 Minute Cool-down",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-01T15:29:36Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
