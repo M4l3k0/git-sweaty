@@ -31939,5 +31939,18 @@
     "start_date_local": "2026-11-08T07:31:00Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-09",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20918257870",
+    "moving_time": 1471.0,
+    "name": "Morning Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-11-09T10:16:04Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]

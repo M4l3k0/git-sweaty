@@ -17198,6 +17198,13 @@
       "subtype": "VirtualRide",
       "type": "VirtualRide",
       "year": 2026
+    },
+    {
+      "date": "2026-11-09",
+      "hour": 10,
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -36807,11 +36814,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1806.0
+        },
+        "2026-11-09": {
+          "activity_ids": [
+            "20918257870"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1471.0
         }
       }
     }
   },
-  "generated_at": "2026-11-08T19:19:55.940088+00:00",
+  "generated_at": "2026-11-09T23:41:46.959876+00:00",
   "other_bucket": "OtherSports",
   "repo": "M4l3k0/git-sweaty",
   "source": "strava",
