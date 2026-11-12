@@ -31991,5 +31991,57 @@
     "start_date_local": "2026-11-11T10:19:48Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-11-12",
+    "distance": 17650.1,
+    "elevation_gain": 82.0,
+    "id": "20956656626",
+    "moving_time": 1648.0,
+    "name": "ROUVY - Merzouga - Erg Chebbi | Morocco",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-12T07:45:32Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-12",
+    "distance": 18249.0,
+    "elevation_gain": 278.0,
+    "id": "20956906618",
+    "moving_time": 1994.0,
+    "name": "ROUVY - Jispa | india",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-12T08:16:44Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-12",
+    "distance": 19131.3,
+    "elevation_gain": 280.0,
+    "id": "20957235387",
+    "moving_time": 2149.0,
+    "name": "ROUVY - Gorges du Dades | Morocco",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-12T08:56:23Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-12",
+    "distance": 20937.8,
+    "elevation_gain": 832.0,
+    "id": "20958024705",
+    "moving_time": 4257.0,
+    "name": "ROUVY - Taiwan KOM 20km | Jiuqidong to Luoshao",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-12T09:44:24Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
