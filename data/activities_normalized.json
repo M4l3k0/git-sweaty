@@ -32082,5 +32082,31 @@
     "start_date_local": "2026-11-14T07:16:49Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-15",
+    "distance": 29215.0,
+    "elevation_gain": 64.0,
+    "id": "20992807213",
+    "moving_time": 2970.0,
+    "name": "ROUVY - Fire at Tempo | Ric Stern",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-15T06:36:32Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-15",
+    "distance": 40001.5,
+    "elevation_gain": 223.0,
+    "id": "20993145175",
+    "moving_time": 3317.0,
+    "name": "ROUVY - Group Ride: TICCC & THE CRAZY CATZ (Sun) Group ride with \u2018Flamme Rouge\u2019 sprint finish 2.8w/kg",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-15T07:31:00Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
