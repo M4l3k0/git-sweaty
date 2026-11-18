@@ -32121,5 +32121,31 @@
     "start_date_local": "2026-11-17T08:46:33Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-18",
+    "distance": 4000.0,
+    "elevation_gain": 0.0,
+    "id": "21031302571",
+    "moving_time": 4224.0,
+    "name": "Morning Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-11-18T06:48:36Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-18",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "21032519673",
+    "moving_time": 1984.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-11-18T10:03:46Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
