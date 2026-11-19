@@ -32147,5 +32147,44 @@
     "start_date_local": "2026-11-18T10:03:46Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-11-19",
+    "distance": 20370.1,
+    "elevation_gain": 266.0,
+    "id": "21043836769",
+    "moving_time": 2022.0,
+    "name": "ROUVY - Zanskar river | India",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-19T07:44:10Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-19",
+    "distance": 20899.6,
+    "elevation_gain": 89.0,
+    "id": "21044047328",
+    "moving_time": 1786.0,
+    "name": "ROUVY - Tso Moriri | India",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-19T08:20:22Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-19",
+    "distance": 25865.2,
+    "elevation_gain": 526.0,
+    "id": "21044612161",
+    "moving_time": 3626.0,
+    "name": "ROUVY - Aerobic Builder | Pauline Ferrand-Pr\u00e9vot's Favourite",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-19T09:02:19Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
